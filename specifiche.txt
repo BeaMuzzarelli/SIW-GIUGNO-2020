@@ -1,0 +1,12 @@
+Casi d'uso implementati:
+-USER: -Sign up
+       -Autenticazione
+       -Visualizzare il mio profilo
+-PROJECT: -Creare un nuovo progetto
+          -Visualizzare i miei progetti
+          -Visualizzare i progetti condivisi con me
+          -Aggiornare i dati di un mio progetto
+          -Cancellare un mio progetto
+          -Aggiungere un tag a un mio progetto
+-TASK: -Aggiungere un nuovo task a un mio progetto
+       -Aggiungere un tag a un task di un mio progetto 
